@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+
+      <head> 
+
+           <title>A picture-perfect trip to the Island of Barbados</title> 
+           <meta charset="utf-8">
+      </head>
+
+      <body>
+           <h1>The perfect trip</h1>
+
+           <p>I would see scenes like the Animal Flower Cave which is one of the most beautiful site in the Island. With its wonderful landscape, its got the perfect view for idyllic beaches and breathtaking sea cliffs for world-class surfing and kite-boarding. A trip to the Island could be a total waste of time without a sunset sail and the Tiami Catamaran Cruise is my best recommendation</p>
+           <img src="https://www.animalflowercave.com" alt="images of Animal Flower Cave">
+           <p>And animals like dolphins. Since its an Island, its mostly surrounded by aquatic life. Sea diving is an excellent idea especially with a guide to see aquatic creatures in their natural habitant</p>
+           <img src="https://www.AlanCopson/GettyImages.com" alt="images of the Miami beach, Christ Church Parish, Barbados"> 
+          <p>And eat food like the Fish Fry which is very famous in the Caribbean and the best in the Island. Breadfruit is also a must and the coconut cocktail is to die for which will be a wonderful combination with the Fish fry</p> 
+          <img SRC="https://www.dinningatlittlegoodharbours.com" alt="images of Fish Pot Restaurant "> 
+
+     </body>
+</html>
